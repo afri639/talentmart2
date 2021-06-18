@@ -1,0 +1,2 @@
+rootProject.name = "talenta mart2"
+include ':app'
